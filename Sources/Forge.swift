@@ -1,7 +1,7 @@
 
 import Foundation
 
-@main
+//@main
 struct Forge {
     static public func main () {
         print(
