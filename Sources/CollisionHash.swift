@@ -5,6 +5,7 @@
 //
 
 import Foundation
+import KnightLife
 
 /// CollisionHash ermöglicht die Nutzung beliebiger Hashfunktionen, wenn der Hash aus zwei Byte ein Byte erzeugt (und es maximal 256 Kollisionen gibt, aber sonst wäre es eine schlechte Hashfunktion)
 public protocol CollisionHashable {
